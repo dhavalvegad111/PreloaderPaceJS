@@ -1,2 +1,2 @@
-# preloader_using-pace.js_master
+# preloader_using_pace.js_master
 Preloader using pace.js
